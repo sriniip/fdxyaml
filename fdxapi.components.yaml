@@ -1,4 +1,4 @@
-openapi: 3.1.0
+openapi: 3.0.0
 info:
   version: '5.2.0'
   title: FDX V5.2.0 Shared Components API
@@ -14,7 +14,7 @@ servers:
   - url: 'https://api.fi.com/fdx/v5'
     description: Financial Data Exchange V5.2.0 Shared Components API
 
-# paths: {}
+paths: {}
 
 components:
 
